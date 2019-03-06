@@ -1,0 +1,48 @@
+.wrapper{
+
+}
+.block{
+	height: 100px;
+	width: 100px;
+	background-color: #777777;
+	position: absolute;
+
+}
+.block-1 {
+	background-color: #222222;
+	top:100;
+	left:100; 
+}
+.block-2 {
+	background-color: #222fff;
+	top:0;
+	left:0; 
+}
+.block-3 {
+	background-color: #224fff;
+	top:100;
+	left:0;
+	}
+	.block-4 {
+	background-color: #111111;
+	top:100;
+	left:100;  
+}
+.block-5 {
+left: -50;
+bottom: -50;
+}
+.block-6 {
+	left:colc(50%-50px);
+	bottom: -50px;
+}
+.block-lg {
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+
+}
+.block-large {
+	width: calc()
+}
+
